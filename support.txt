@@ -1,0 +1,22 @@
+Purpose: 
+DXF Assistant is a lightweight and intuitive DXF viewer for macOS, iPad, and iPhone, designed for handle dxf drawings entirely offline, making it easy to view DXF drawings anytime, anywhere.
+
+Features:
+ - Supports opening DXF files in text format.
+ - Loads 2D and 3D entities with seamless switching between multiple views, including top, bottom, left, right, front, and back.
+ - Supports multiple layers with the ability to toggle visibility for each layer.
+ - Enables smooth panning and zooming for precise viewing.
+ - Provides a detailed view of entities and blocks. Easily switch between entities by double-clicking them in the list for quick and accurate inspection.
+ - No ads, no data collection, no tracking—just a pure productivity tool.
+ - Compatible with iOS, iPadOS, and macOS.
+
+
+Technical Specifications
+ - Requires iOS 15, macOS 12 or later.
+ - Optimized for high performance and resource efficiency.
+ - Works offline with no need for network access, ensuring complete data privacy.
+
+ 
+ - Contact
+ - Have questions or need support?
+ - Feel free to reach out to danjian42@gmail.com or on X.com: @aceway2024🔗
